@@ -26,113 +26,21 @@ Simple and effective chess engine.
 - [ ] Planned pondering
 - [ ] Planned bitmap board
 
-## Screenshots / Demo
-
-Add screenshots, GIFs, or examples demonstrating your project.
-
-<!-- ![Demo](assets/demo.gif) -->
 
 ## Getting Started
 
-[placeholder]
+This is a standalone engine and not come with a GUI to play.
 
-### Prerequisites
-[placeholder]
-List the required software, tools, and dependencies.
+To play with the engine, use a premade GUI like https://cutechess.com/ and https://encroissant.org/
 
-- Compiler / Runtime:
-- Build system:
-- Dependencies:
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
-```
-
-Install or configure dependencies:
-
-```bash
-# Add installation commands here
-```
-
-### Build
-
-```bash
-# Add build commands here
-```
-
-### Usage
-
-Explain how to use the project.
-
-```bash
-# Add example commands here
-```
-
-Include practical examples of expected input and output where appropriate.
-
-## Project Structure
-
-```text
-project/
-├── src/          # Source files
-├── include/      # Header files
-├── tests/        # Test files
-├── assets/       # Images and resources
-├── docs/         # Documentation
-├── CMakeLists.txt
-└── README.md
-```
-
-Adapt this structure to your actual project.
-
-## Technical Details
-
-Explain important implementation decisions.
-
-- Architecture:
-- Algorithms:
-- Data structures:
-- Design decisions:
-- Performance considerations:
-
-## Testing
-
-Explain how the project is tested.
-
-```bash
-# Add test commands here
-```
-
-Describe the testing framework and any known limitations.
 
 ## Roadmap
 
-- [ ] Initial implementation
-- [ ] Core functionality
-- [ ] Testing and optimization
-- [ ] Documentation improvements
-- [ ] Stable release
-
-## Contributing
-
-Contributions, suggestions, and bug reports are welcome.
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Run the tests.
-5. Submit a pull request.
-
-For significant changes, please open an issue first to discuss them.
+- [ ] Optimize to adapt with time control.
 
 ## Known Issues
 
-List known bugs, limitations, or unfinished features.
+None currently
 
 ## License
 
@@ -140,13 +48,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Credit libraries, resources, tutorials, and individuals
-that helped make this project possible.
-
----
-
-## Contact
-
-**Author:** YOUR NAME
-
-- GitHub: https://github.com/USERNAME
+Thank to https://chessprogramming.org/
