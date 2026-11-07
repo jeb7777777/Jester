@@ -24,7 +24,7 @@ Simple and effective chess engine.
 - [x] Implemented Negamax with alpha-beta prunging.
 - [x] Implemented Quiescence Search
 - [ ] Planned pondering
-- [ ] Planned bitmap board
+- [ ] Planned common optimization quirk
 
 
 ## Getting Started
@@ -35,7 +35,7 @@ To play with the engine, use a premade GUI like https://cutechess.com/ and https
 
 
 ## Roadmap
-
+- [ ] fix three-fold repetition draw.
 - [ ] Optimize to adapt with time control.
 
 ## Known Issues
